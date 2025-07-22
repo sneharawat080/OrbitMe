@@ -1,41 +1,47 @@
-🌍 OrbitMe - Your Personal Operating System for Work, Health & Self-Discipline
+**🌍 OrbitMe - Your Personal Operating System for Work, Health & Self-Discipline
+**
 Version: 1.0
 Built With: Python · Streamlit · Pandas · Matplotlib
 
-📖 Overview
+**📖 Overview
+**
 OrbitMe is a simple yet powerful personal life management tool designed to help you track and balance your Work Tasks, Health Metrics, and overall Self-Discipline — all in one place.
 
 With a clean dashboard and easy-to-use interfaces, OrbitMe helps you:
 
-Organize and track your daily work.
+Organize and track your daily work
 
-Monitor your health habits (Steps, Water Intake, Sleep, Mood, etc.).
+Monitor your health habits (Steps, Water Intake, Sleep, Mood, etc.)
 
-Visualize your progress with easy-to-read analytics and reports.
+Visualize your progress with easy-to-read analytics and reports
 
-🚀 Key Features
+**🚀 Key Features
+**
 ✅ Work Orbit
-Add, update, and track work tasks.
+Add, update, and track work tasks
 
-Monitor hours spent, progress %, deadlines, and notes.
+Monitor hours spent, progress %, deadlines, and notes
 
-Visual overview of task completion through metrics and bar charts.
+Visual overview of task completion through metrics and bar charts
 
-💪 Health Orbit
-Log daily health activities: water intake, steps, sleep hours, mood, exercise, and more.
+**💪 Health Orbit
+**
+Log daily health activities: water intake, steps, sleep hours, mood, exercise, and more
 
-Easy data input for consistent habit tracking.
+Easy data input for consistent habit tracking
 
-View trends over time with visual graphs and metrics.
+View trends over time with visual graphs and metrics
 
-📊 Dashboard
-Unified summary of your work and health progress.
+**📊 Dashboard
+**
+Unified summary of your work and health progress
 
-Key metrics: average steps, water intake, mood, and completed tasks.
+Key metrics: average steps, water intake, mood, and completed tasks
 
-Beautiful visual reports including bar charts and pie charts.
+Beautiful visual reports including bar charts and pie charts
 
-📂 Project Structure
+**📂 Project Structure
+**
 bash
 Copy
 Edit
@@ -52,7 +58,9 @@ OrbitMe/
 │   └── work_data.csv        # Work tracking data
 │
 └── README.md                # This file
-⚙️ Installation & Run Locally
+
+**⚙️ Installation & Run Locally
+**
 1️⃣ Clone the Repository
 bash
 Copy
@@ -77,8 +85,10 @@ bash
 Copy
 Edit
 streamlit run app.py
-✨ Future Improvements
- User authentication (login/signup)
+
+**✨ Future Improvements
+**
+User authentication (login/signup)
 
  Export reports as PDF
 
@@ -88,11 +98,13 @@ streamlit run app.py
 
  Daily progress notifications / reminders
 
-📝 License
+**📝 License
+**
 This project is for educational & personal use only.
 Feel free to fork and modify as you wish.
 
-💡 Acknowledgments
+**💡 Acknowledgments
+**
 Thanks to Streamlit, Pandas, and Matplotlib for making life-tracking simple and interactive.
 
 🙌 Connect with Me
