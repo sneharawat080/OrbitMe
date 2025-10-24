@@ -6,7 +6,7 @@ OrbitMe is an intelligent life management platform designed to harmonize your pe
 
 -----
 
-## \#\# Key Features
+\#\# Key Features
 
   * **Main Dashboard:** A central "at-a-glance" hub (`App.py`) showing key stats, core capabilities, and recent activity.
   * **Work Management:** (`Work.py`) A full CRUD (Create, Read, Update, Delete) module to manage tasks. Track by category, priority, status, hours, and deadlines.
@@ -78,7 +78,7 @@ OrbitMe_Project/
 
 -----
 
-## \#\# How to Use
+\#\# How to Use
 
 1.  **Home Page:** The app will open on the main `App.py` dashboard. This gives you a high-level overview.
 2.  **Add Data:** Use the sidebar to navigate to:
@@ -92,7 +92,7 @@ OrbitMe_Project/
 
 -----
 
-## \#\# Dependencies
+ \#\# Dependencies
 
 This project relies on the following Python libraries:
 
