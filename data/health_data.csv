@@ -1,18 +1,18 @@
 Date,Steps,Water,Sleep Hours,Sleep Quality,Mood,Weight,Calories,Ate Healthy,Exercise,Stress Level,Note
-2024-01-15,8450,2.5,7.5,4,8,72.5,2100,Good,Yes,3,"Good energy levels, productive day"
-2024-01-16,7200,3.0,6.5,3,6,72.3,1950,Fair,Yes,5,"Busy day, missed workout"
-2024-01-17,10200,2.8,8.0,5,9,72.1,2250,Excellent,Yes,2,"Great workout, felt energetic"
-2024-01-18,5800,2.0,7.0,3,5,72.4,1850,Poor,No,7,"Long work hours, tired"
-2024-01-19,9100,3.2,7.5,4,7,72.0,2150,Good,Yes,4,"Balanced day, good focus"
-2024-01-20,12500,3.5,8.5,5,9,71.8,2400,Excellent,Yes,1,"Weekend hike, very active"
-2024-01-21,6500,2.8,9.0,4,6,72.2,1950,Fair,No,6,"Rest day, some stress"
-2024-01-22,8800,3.0,7.0,3,7,72.1,2050,Good,Yes,4,Back to work routine
-2024-01-23,9500,2.7,7.5,4,8,71.9,2200,Good,Yes,3,Productive work session
-2024-01-24,7800,3.1,6.5,2,5,72.3,1900,Fair,Yes,5,"Late night work, poor sleep"
-2024-01-25,11000,3.3,8.0,5,9,72.0,2300,Excellent,Yes,2,"Completed project, great mood"
-2024-01-26,8200,2.9,7.0,3,6,72.2,2000,Good,No,4,"Average day, normal activity"
-2024-01-27,13500,3.8,8.0,4,8,71.7,2500,Excellent,Yes,3,"Outdoor activities, very active"
-2024-01-28,5200,2.5,9.5,5,7,72.1,1800,Fair,No,5,Rest and recovery day
-2024-01-29,8900,3.0,7.5,4,8,71.8,2100,Good,Yes,3,Good start to the week
-2024-01-30,7600,2.6,6.0,2,4,72.4,1850,Poor,No,8,Stressful work day
-2025-10-12,0,0.0,7.0,3,5,70.0,2000,Excellent,Yes,5,
+2025-10-01,8450,2.5,7.5,4,8,72.5,2100,Good,Yes,3,"Good energy levels, productive day"
+2025-10-02,7200,3.0,6.5,3,6,72.3,1950,Fair,Yes,5,"Busy day, missed workout"
+2025-10-03,10200,2.8,8.0,5,9,72.1,2250,Excellent,Yes,2,"Great workout, felt energetic"
+2025-10-04,5800,2.0,7.0,3,5,72.4,1850,Poor,No,7,"Long work hours, tired"
+2025-10-05,9100,3.2,7.5,4,7,72.0,2150,Good,Yes,4,"Balanced day, good focus"
+2025-10-06,12500,3.5,8.5,5,9,71.8,2400,Excellent,Yes,1,"Weekend hike, very active"
+2025-10-07,6500,2.8,9.0,4,6,72.2,1950,Fair,No,6,"Rest day, some stress"
+2025-10-08,8800,3.0,7.0,3,7,72.1,2050,Good,Yes,4,"Back to work routine"
+2025-10-09,9500,2.7,7.5,4,8,71.9,2200,Good,Yes,3,"Productive work session"
+2025-10-10,7800,3.1,6.5,2,5,72.3,1900,Fair,Yes,5,"Late night work, poor sleep"
+2025-10-11,11000,3.3,8.0,5,9,72.0,2300,Excellent,Yes,2,"Completed project, great mood"
+2025-10-12,8200,2.9,7.0,3,6,72.2,2000,Good,No,4,"Average day, normal activity"
+2025-10-13,13500,3.8,8.0,4,8,71.7,2500,Excellent,Yes,3,"Outdoor activities, very active"
+2025-10-14,5200,2.5,9.5,5,7,72.1,1800,Fair,No,5,"Rest and recovery day"
+2025-10-15,8900,3.0,7.5,4,8,71.8,2100,Good,Yes,3,"Good start to the week"
+2025-10-16,7600,2.6,6.0,2,4,72.4,1850,Poor,No,8,"Stressful work day"
+2025-10-17,0,0.0,7.0,3,5,70.0,2000,Excellent,Yes,5,""
